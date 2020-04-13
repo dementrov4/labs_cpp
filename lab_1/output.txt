@@ -1,0 +1,36 @@
+Buyer:
+Surname ----------- : Agapov
+Name -------------- : Denis
+Town -------------- : Tumen
+Street ------------ : Oktybarskaya
+House number ------ : 9
+Apartment number -- : 212
+Account number ---- : 164525
+
+Buyer:
+Surname ----------- : Gurenko
+Name -------------- : Zakhar
+Town -------------- : Zylovsk
+Street ------------ : Temnaya
+House number ------ : 48
+Apartment number -- : 16
+Account number ---- : 395293
+
+Buyer:
+Surname ----------- : Nosova
+Name -------------- : Anastasia
+Town -------------- : Khabarovsk
+Street ------------ : Lenina
+House number ------ : 47
+Apartment number -- : 12
+Account number ---- : 313524
+
+Buyer:
+Surname ----------- : Samsonova
+Name -------------- : Maria
+Town -------------- : Zvezdny
+Street ------------ : Roschinskaya
+House number ------ : 13
+Apartment number -- : 392
+Account number ---- : 942561
+
