@@ -175,11 +175,6 @@ namespace buyer
 						filteredList.add(temp->data);
 					}
 					break; 
-				case '~':
-					if (strcmp(town, temp->data.getTown()) != 0) {
-						filteredList.add(temp->data);
-					}
-					break;
 				default:
 					throw std::invalid_argument("Wrong sign");
 					break;
