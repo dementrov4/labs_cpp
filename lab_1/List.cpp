@@ -74,6 +74,7 @@ namespace buyer
 						temp->prev->next = temp->next;
 						delete temp;
 					}
+					break;
 				}
 			}
 
