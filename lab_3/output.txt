@@ -1,0 +1,27 @@
+Buyer:
+Surname ----------- : Bykov 
+Name -------------- : Nikita 
+Town -------------- : Plavsk
+Street ------------ : Rodjinskaya
+House number ------ : 71
+Apartment number -- : 103
+Account number ---- : 456631
+
+Buyer:
+Surname ----------- : Eleseyev
+Name -------------- : Aleksey
+Town -------------- : Volgograd
+Street ------------ : Plescheyevskaya
+House number ------ : 302
+Apartment number -- : 43
+Account number ---- : 583441
+
+Buyer:
+Surname ----------- : Poluektova
+Name -------------- : Diana 
+Town -------------- : Belgorod
+Street ------------ : Festivalnaya
+House number ------ : 3
+Apartment number -- : 12
+Account number ---- : 791400
+
