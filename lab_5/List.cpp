@@ -6,8 +6,10 @@ void List::add(const Data &data)
 {
     if (size() == 0) {
         push_back(data);
-    } else if (end()->getSurname() < data.getSurname()) {
+    } else if (begin()->getSurname() > data.getSurname()) {
         push_front(data);
+    } else if (end()->getSurname() < data.getSurname()) {
+        push_back(data);
     } else {
         for (auto iter = begin(); iter != end(); ++iter) {
             if (iter->getSurname() > data.getSurname()) {
